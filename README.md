@@ -22,7 +22,8 @@ Go to my Replit repo https://replit.com/@yilinding10171/inventory-system#README.
 ```
 When you see the following, it means that the server side is set up and running susccessfully
 <img width="575" alt="image" src="https://user-images.githubusercontent.com/55115710/169143746-6261dfa4-076e-4628-804a-767917dbd325.png">
-2. Then duplicate the tab to start the client by put the following into the terminal/shell:
+
+2. Duplicate the current tab and go to the second tab to start the client by put the following into the new terminal/shell:
 ```
   cd client
   npm i
